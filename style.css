@@ -1,0 +1,79 @@
+body{
+	background-image: url("img/5594016.jpg");
+	background-repeat: no-repeat;
+	/*background-size: cover;*/
+	margin: 0;
+	padding: 0;
+}
+
+.header_1{
+	background-color: #988F9D;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	border-radius: 20px;
+	justify-content: center;
+	background-size: 100%;
+	box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+
+.logoIT{
+	height: 250px;
+	width: 250px;
+}
+
+.desc__header{
+	font-family: Noto Sans;
+	font-size: 40px;
+	font-weight: 600;
+}
+
+.main_1{
+	border-radius: 20px;
+	justify-content: center;
+	background-size: 100%;
+	background-color: #988F9D;
+	box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+	padding: 40px 20px;
+}
+
+/*.main_0{
+	border-radius: 20px;
+	justify-content: center;
+	background-size: 100%;
+	background-color: #988F9D;
+	box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+	margin-bottom: 40px;
+	margin-top: 100px!important;
+	padding: 40px 20px;
+	text-align: center;
+}*/
+
+.desc__main{
+	font-family: Noto Sans;
+	font-size: 20px;
+	font-weight: 600;
+	text-align: center;
+}
+.button_all{
+	text-align: center;
+}
+.button_all a{
+	font-family: Noto Sans;
+	padding: 10px 2rem;
+	text-align: center;
+	font-size: 30px;
+	border-radius: 20px;
+	text-decoration: none;
+	color: black;
+	background-color: #FFF7F7;
+	display: grid;
+	margin-bottom: 1rem;
+}
+
+
+.button_all a:hover{
+  	transform: translateY(5px);
+  	box-shadow: inset 0px 10px 20px 2px rgba(0, 0, 0, 0.25);
+}
