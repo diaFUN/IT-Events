@@ -1,0 +1,73 @@
+body{
+	background-image: url("photo/5594016.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	margin: 0;
+	padding: 0;
+}
+
+.main_0{
+	columns: 2;
+	display: flex;
+}
+
+.logo{
+    display: grid;
+    justify-content: center;
+}
+
+.logoIT{
+	width: 350px;
+	height: 350px;
+}
+
+.inside{
+	margin-top: 50px;
+    display: grid;
+    justify-content: center;
+}
+
+.photo_inside{
+	width: 520px;
+	height: 290px;
+	border-radius: 20px;
+}
+
+.zagol{
+	margin-top: 150px;
+	text-align: center;
+}
+
+.zagol h1{
+	font-family: Noto Sans;
+	font-weight: 600;
+	font-size: 50px;
+}
+
+.up{
+	width: 660px;
+	height: 290px;
+	border-radius: 20px;
+}
+
+.first{
+	margin-top: 190px;
+	justify-content: center;
+	display: grid;
+}
+
+
+.second{
+	font-family: Noto Sans;
+    font-size: 30px;
+    margin-top: 160px;
+    text-align: center;
+}
+
+.third{
+	font-family: Noto Sans;
+    font-size: 30px;
+    margin-top: 175px;
+    text-align: center;;
+}
